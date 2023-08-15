@@ -42,6 +42,8 @@ RFM analysis is used to personalize marketing strategies, enhance customer loyal
 
 ![img](https://analyticahouse.com/Website/assets/img/Blogs/6314b7a379496.png)
 
+## 💱Let's randomly choose three segments and interpret them.
+
 | Segment              | Recency (mean) | Recency (median) | Recency (count) | Recency (std) | Frequency (mean) | Frequency (median) | Frequency (count) | Frequency (std) | Monetary (mean) | Monetary (median) | Monetary (count) | Monetary (std) |
 |----------------------|----------------|------------------|-----------------|---------------|-----------------|-------------------|------------------|----------------|-----------------|-------------------|-----------------|---------------|
 | About to Sleep       | 52.85          | 52.0             | 343             | 10.26         | 1.20            | 1.0               | 343              | 0.40           | 442.27          | 317.76            | 343             | 417.30        |
@@ -55,7 +57,6 @@ RFM analysis is used to personalize marketing strategies, enhance customer loyal
 | Potential Loyalists  | 17.77          | 18.0             | 516             | 9.73          | 2.02            | 2.0               | 516              | 0.70           | 729.16          | 523.66             | 516             | 837.55        |
 | Promising            | 24.76          | 24.0             | 87              | 6.03          | 1.00            | 1.0               | 87               | 0.00           | 368.02          | 293.74             | 87              | 343.91        |
 
-## 💱Let's randomly choose three segments and interpret them.
 
 ## 📝Loyal Customers
 
