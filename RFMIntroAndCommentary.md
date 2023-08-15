@@ -60,19 +60,25 @@ RFM analysis is used to personalize marketing strategies, enhance customer loyal
 ## 🖇️Loyal Customers
 
 ▪️There are 743 individuals in this segment.
+
 ▪️They have an average recency of 35.28 days without making a purchase.
+
 ▪️They have made an average of 6.8 transactions.
+
 ▪️They have generated an average monetary value of 2743.48.
 
 ## 🖇️Based on this information, a possible action decision could be:
 
 Considering that these customers have a relatively high frequency of purchases and have generated a substantial monetary value, the focus could be on maintaining their engagement and encouraging more frequent purchases. Sending personalized offers, loyalty rewards, and exclusive deals could incentivize them to continue their shopping habits. Additionally, gathering feedback from these customers to understand their preferences better and tailoring marketing strategies accordingly could help solidify their loyalty.
 
-## 🖇️Promising:
+## 🖇️Promising
 
 ▪️There are 87 individuals in this segment.
+
 ▪️They have an average recency of 24.76 days without making a purchase.
+
 ▪️They have made an average of 1 transactions.
+
 ▪️They have generated an average monetary value of 368.02
 
 ## 🖇️Considering the characteristics of this segment, a potential action decision could be:
