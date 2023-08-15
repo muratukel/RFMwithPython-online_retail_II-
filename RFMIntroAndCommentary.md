@@ -85,3 +85,14 @@ Considering that these customers have a relatively high frequency of purchases a
 
 Given that these customers have relatively infrequent transactions and a low average monetary value, the focus could be on converting them into more active and engaged customers. To do so, tailored marketing campaigns could be employed to showcase the value and benefits of additional purchases. Special promotions, discounts, or targeted product recommendations based on their past behavior could be used to encourage them to increase their transaction frequency and monetary contributions. Regular follow-ups and personalized communication might also help nurture their interest and establish a stronger connection with your brand.
 
+## 🖇️About to Sleep
+
+▪️"About to Sleep" segment consists of 343 individuals.
+
+▪️On average, customers in this segment have not made a purchase for around 52.85 days, with a median of 52 days.
+
+▪️The standard deviation is relatively low at 10.26, indicating consistency in this aspect.
+
+▪️The average frequency of transactions is 1.20, with a median of 1. This suggests that most customers in this segment have made very few purchases.
+
+▪️In terms of monetary value, the average is 442.27, and the median is 317.76. The standard deviation of 417.30 indicates some variability in the spending patterns.
