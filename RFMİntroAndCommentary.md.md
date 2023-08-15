@@ -40,6 +40,8 @@ Customers with the lowest recency, frequency, and monetary values.This segment g
 
 RFM analysis is used to personalize marketing strategies, enhance customer loyalty, and create targeted campaigns for specific segments. It provides insights into customer behaviors and enhances the effectiveness of marketing efforts.
 
+## Dataset Link : https://archive.ics.uci.edu/dataset/502/online+retail+ii
+
 ![img](https://analyticahouse.com/Website/assets/img/Blogs/6314b7a379496.png)
 
 ## 💱Let's randomly choose three segments and interpret them.
