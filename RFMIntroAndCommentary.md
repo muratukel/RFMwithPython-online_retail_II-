@@ -41,3 +41,17 @@ Customers with the lowest recency, frequency, and monetary values.This segment g
 RFM analysis is used to personalize marketing strategies, enhance customer loyalty, and create targeted campaigns for specific segments. It provides insights into customer behaviors and enhances the effectiveness of marketing efforts.
 
 ![img](https://analyticahouse.com/Website/assets/img/Blogs/6314b7a379496.png)
+
+| Segment              | Recency (mean) | Recency (median) | Recency (count) | Recency (std) | Frequency (mean) | Frequency (median) | Frequency (count) | Frequency (std) | Monetary (mean) | Monetary (median) | Monetary (count) | Monetary (std) |
+|----------------------|----------------|------------------|-----------------|---------------|-----------------|-------------------|------------------|----------------|-----------------|-------------------|-----------------|---------------|
+| About to Sleep       | 52.85          | 52.0             | 343             | 10.26         | 1.20            | 1.0               | 343              | 0.40           | 442.27          | 317.76            | 343             | 417.30        |
+| At Risk              | 150.93         | 129.0            | 611             | 69.98         | 3.07            | 3.0               | 611              | 1.09           | 1188.21         | 760.19            | 611             | 1844.17       |
+| Can't Loose          | 122.72         | 107.5            | 78              | 49.72         | 9.04            | 7.5               | 78               | 5.78           | 4072.97         | 2316.48            | 78              | 5275.40       |
+| Champions            | 6.12           | 6.0              | 663             | 4.62          | 12.50           | 8.0               | 663              | 17.19          | 6852.26         | 2508.32            | 663             | 21556.38      |
+| Hibernating          | 213.31         | 212.0            | 1016            | 89.78         | 1.13            | 1.0               | 1016             | 0.33           | 401.98          | 250.16             | 1016            | 775.08        |
+| Loyal Customers      | 35.28          | 30.0             | 743             | 16.06         | 6.82            | 5.0               | 743              | 4.38           | 2743.48         | 1818.71            | 743             | 3255.11       |
+| Need Attention       | 52.21          | 52.0             | 207             | 9.83          | 2.45            | 2.0               | 207              | 0.50           | 1058.79         | 730.47             | 207             | 1190.26       |
+| New Customers        | 7.58           | 7.5              | 50              | 4.31          | 1.00            | 1.0               | 50               | 0.00           | 386.20          | 258.83             | 50              | 493.32        |
+| Potential Loyalists  | 17.77          | 18.0             | 516             | 9.73          | 2.02            | 2.0               | 516              | 0.70           | 729.16          | 523.66             | 516             | 837.55        |
+| Promising            | 24.76          | 24.0             | 87              | 6.03          | 1.00            | 1.0               | 87               | 0.00           | 368.02          | 293.74             | 87              | 343.91        |
+
