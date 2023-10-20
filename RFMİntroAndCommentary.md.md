@@ -4,7 +4,7 @@
 
 RFM (Recency, Frequency, Monetary) analysis is a method used for customer segmentation and crafting marketing strategies. RFM stands for the initials of its three core components. This analysis aims to categorize customers based on specific criteria and divide them into different segments.
 
-✔️Key Concepts of RFM Analysis:
+### ✔️Key Concepts of RFM Analysis:
 
 🔸Recency (R):
 
@@ -19,7 +19,7 @@ Indicates how often a customer makes purchases within a specific time frame.Cust
 Refers to the total amount of money a customer has spent.Customers who have made significant purchases are often more financially impactful and potentially more
 responsive to special offers.
 
-✔️RFM Segmentation Categories:
+### ✔️RFM Segmentation Categories:
 
 🔸Champions:
 
