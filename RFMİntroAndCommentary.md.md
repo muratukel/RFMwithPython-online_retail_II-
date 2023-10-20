@@ -1,4 +1,7 @@
 ## RFM Analysis: Understanding Customer Segmentation 🕐📟💲
+
+![img](https://analyticahouse.com/Website/assets/img/Blogs/6314b7a379496.png)
+
 RFM (Recency, Frequency, Monetary) analysis is a method used for customer segmentation and crafting marketing strategies. RFM stands for the initials of its three core components. This analysis aims to categorize customers based on specific criteria and divide them into different segments.
 
 ✔️Key Concepts of RFM Analysis:
@@ -42,7 +45,6 @@ RFM analysis is used to personalize marketing strategies, enhance customer loyal
 
 ## Dataset Link : https://archive.ics.uci.edu/dataset/502/online+retail+ii
 
-![img](https://analyticahouse.com/Website/assets/img/Blogs/6314b7a379496.png)
 
 ## 💱Let's randomly choose three segments and interpret them.
 
